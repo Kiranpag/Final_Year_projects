@@ -1,5 +1,6 @@
 1.==>FACE RECOGNITION ATTENDANCE APP | Team Leader
 July 2023 - October 2023
+
 • Led the development of a sophisticated Face Recognition Attendance
 App using Python, advanced Machine Learning algorithms (including
 LBPH and HaarCascade), and MySQL.
@@ -15,6 +16,7 @@ highlighting excellence in design and implementation.
 
 2.==>E-SHOP COMMANDER | Team Leader
 January 2021 - May 2021
+
 • Engineered a dynamic and scalable inventory management system
 using Java, MySQL, and modern web technologies.
 • Implemented real-time inventory tracking, reducing stockouts by
@@ -26,6 +28,7 @@ satisfaction.
 
 3.==>SMARTQUERY ENGINE: DOCUMENT INTELLIGENCE
 November 2023 - Present
+
 • 93% Accuracy Boost: Engineered a precise chatbot using advanced
 NLP and document analysis, achieving a remarkable 93% increase in
 accuracy for information retrieval.
